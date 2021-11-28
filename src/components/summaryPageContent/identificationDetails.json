@@ -1,0 +1,25 @@
+{
+  "identityType": [
+    {
+      "name": "Citizenship"
+    },
+    {
+      "name": "Driving License"
+    },
+    {
+      "name": "Voter ID"
+    },
+    {
+      "name": "Passport"
+    },
+    {
+      "name": "Embessy Regd. Card"
+    },
+    {
+      "name": "Birth Certificate"
+    },
+    {
+      "name": "Minor ID"
+    }
+  ]
+}

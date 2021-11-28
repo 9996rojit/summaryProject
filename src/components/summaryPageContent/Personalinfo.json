@@ -1,0 +1,42 @@
+{
+  "gender":[
+    {
+    "name":"Male"
+  },
+  {
+    "name":"Female"
+  },
+  {
+    "name":"Others"
+  }
+  ],
+  "MaritalStatus":[
+    {
+      "name":"Married"
+    },
+    {
+      "name":"Unmarried"
+    },
+    {
+      "name":"Others"
+    }
+  ],
+  "EducationQuification":[
+    {
+      "name":"Literate"
+    },
+    {
+      "name":"SLC/SEE"
+    },
+    {
+      "name":"Graduate"
+    },
+    {
+      "name":"Post Graduate"
+    },
+    {
+      "name":"Others"
+    }
+
+  ]
+}

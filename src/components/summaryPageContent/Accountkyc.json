@@ -1,0 +1,46 @@
+{
+  "Account_for": [
+    {
+      "name": "Single Account"
+    },
+    {
+      "name": "Joint Account"
+    },
+    {
+      "name": "Minor Account"
+    }
+  ],
+  "Account_type": [
+    {
+      "name": "Current"
+    },
+    {
+      "name": "Saving"
+    },
+    {
+      "name": "Others"
+    }
+  ],
+  "Currency": [
+    {
+      "name": "NPR"
+    },
+    {
+      "name": "Others"
+    }
+  ],
+  "PurposeOfAcc": [
+    {
+      "name": "Saving"
+    },
+    {
+      "name": "Salary"
+    },
+    {
+      "name": "Loan"
+    },
+    {
+      "name": "Others"
+    }
+  ]
+}
